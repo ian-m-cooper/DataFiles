@@ -37,5 +37,18 @@
     "Latitude": -8.783195,
     "Longitude": 34.508523,
     "Tags": [ "retail, warehouse" ]
+  },
+  {
+    "CompanyName": "Australian Defence Force",
+    "Location": "",
+    "Role": "Army, Navy or Royal Australian Air Force",
+    "Details": "Start your next journey with the ADF",
+    "Image": "https://raw.githubusercontent.com/ian-m-cooper/DataFiles/refs/heads/main/logo-adfa-careers-light.ad7626b9.jpg",
+    "Hours": "37.5 hours/Wk. 8:30am to 4:30pm",
+    "PayRate": "Various",
+    "AgeRange": "17 to 25 years",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523,
+    "Tags": [ "army,navy,raaf, defence" ]
   } 
 ]
