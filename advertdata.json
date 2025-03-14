@@ -17,7 +17,7 @@
     "Location": "Various",
     "Role": "Checkout Operator",
     "Details": "Checkout operator and store worker",
-    "Image": "https://github.com/ian-m-cooper/DataFiles/blob/main/coles-supermarkets.jpg",
+    "Image": "https://raw.githubusercontent.com/ian-m-cooper/DataFiles/refs/heads/main/coles-supermarkets.jpg",
     "Hours": "37.5 hours/Wk. 8:30am to 4:30pm",
     "PayRate": "$24.10/Hour",
     "AgeRange": "17 to 25 years",
