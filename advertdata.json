@@ -1,0 +1,41 @@
+[
+  {
+    "CompanyName": "Downer Engineering",
+    "Location": "Canning Vale",
+    "Role": "Workshop Assistant",
+    "Details": "Repairing field equipment. Training given",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Hours": "37.5 hours/Wk. 8:30am to 4:30pm",
+    "PayRate": "$24.10/Hour",
+    "AgeRange": "17 to 21 years",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523,
+    "Tags": [ "engineering" ]
+  },
+  {
+    "CompanyName": "Coles",
+    "Location": "Various",
+    "Role": "Checkout Operator",
+    "Details": "Checkout operator and store worker",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Hours": "37.5 hours/Wk. 8:30am to 4:30pm",
+    "PayRate": "$24.10/Hour",
+    "AgeRange": "17 to 25 years",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523,
+    "Tags": [ "retail" ]
+  },
+  {
+    "CompanyName": "Woolworths",
+    "Location": "Balcatta",
+    "Role": "Warehouse Worker",
+    "Details": "Process deliveries and send to shop floor. Clean driving licence an advantage",
+    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+    "Hours": "37.5 hours/Wk. 8:30am to 4:30pm",
+    "PayRate": "$24.10/Hour",
+    "AgeRange": "21 to 25 years",
+    "Latitude": -8.783195,
+    "Longitude": 34.508523,
+    "Tags": [ "retail, warehouse" ]
+  } 
+]
